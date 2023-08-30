@@ -1,0 +1,23 @@
+{
+  "name": "gymtrack",
+  "version": "1.0.0",
+  "description": "An advanced gym monitoring app designed to streamline the tracking of gym visitors, member attendance, and workout progress.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerwintuchi/gymtrack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jerwintuchi/gymtrack/issues"
+  },
+  "homepage": "https://github.com/jerwintuchi/gymtrack#readme",
+  "devDependencies": {
+    "jest": "^29.6.4"
+  }
+}
